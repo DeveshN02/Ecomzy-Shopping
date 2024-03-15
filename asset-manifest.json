@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/Ecomzy-Shopping/static/css/main.fad00434.css",
-    "main.js": "/Ecomzy-Shopping/static/js/main.5c834c60.js",
+    "main.js": "/Ecomzy-Shopping/static/js/main.b52d3307.js",
+    "static/media/logo.png": "/Ecomzy-Shopping/static/media/logo.abe38ad162a16fe8cdda.png",
     "index.html": "/Ecomzy-Shopping/index.html",
     "main.fad00434.css.map": "/Ecomzy-Shopping/static/css/main.fad00434.css.map",
-    "main.5c834c60.js.map": "/Ecomzy-Shopping/static/js/main.5c834c60.js.map"
+    "main.b52d3307.js.map": "/Ecomzy-Shopping/static/js/main.b52d3307.js.map"
   },
   "entrypoints": [
     "static/css/main.fad00434.css",
-    "static/js/main.5c834c60.js"
+    "static/js/main.b52d3307.js"
   ]
 }
