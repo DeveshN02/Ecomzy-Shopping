@@ -6,7 +6,10 @@ const Home = () => {
   const API_URL = "https://fakestoreapi.com/products";
   const [loading, setLoading] = useState(false);
   const [posts, setPosts] = useState([]);
-
+  useEffect(() => {
+    fetchProductData();
+  }, []);
+  
   async function fetchProductData() {
     setLoading(true);
 
@@ -22,9 +25,7 @@ const Home = () => {
     setLoading(false);
   }
 
-  useEffect(() => {
-    fetchProductData();
-  }, []);
+
 
   return (
     <div>
